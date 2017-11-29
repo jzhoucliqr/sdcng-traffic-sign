@@ -1,0 +1,9 @@
+data
+traffic-signs-data.zip
+.ipynb_checkpoints
+*.h5
+models
+local
+*.swp
+*.p
+lenet.*
