@@ -52,7 +52,7 @@ The goals / steps of this project are the following:
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. 
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/jzhoucliqr/sdcng-traffic-sign/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
 
